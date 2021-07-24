@@ -1,5 +1,5 @@
 const birthdate = document.querySelector('#birthdate');
-const luckyNum = document.querySelector('#luckynumber');
+const luckyNum = document.querySelector('#lucky-num');
 const btn = document.querySelector('#btn');
 const output = document.querySelector('#output');
 const reset = document.querySelector('#reset');
